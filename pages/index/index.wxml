@@ -1,0 +1,9 @@
+<view class="center" hover-class="none" hover-stop-propagation="false">
+    <text>首页</text>
+    <navigator class="" target="" url="/subpages/auth/login/index" hover-class="navigator-hover" open-type="navigate">
+        login
+    </navigator>
+    <navigator class="" target="" url="/subpages/store/index/index" hover-class="navigator-hover" open-type="navigate">
+        store
+    </navigator>
+</view>

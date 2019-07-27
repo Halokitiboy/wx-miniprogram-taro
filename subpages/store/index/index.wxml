@@ -1,0 +1,4 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="index center"><text>taro store页</text>
+    </view>
+</block>

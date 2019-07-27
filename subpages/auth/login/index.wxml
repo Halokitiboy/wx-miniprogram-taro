@@ -1,0 +1,4 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="center"><text>taro 登录页 </text>
+    </view>
+</block>
